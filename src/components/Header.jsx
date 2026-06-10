@@ -151,7 +151,7 @@ const Header = () => {
                     <div>
                       <h1 className="font-moderniz text-sm dark:text-[#00ffdc] text-slate-800 whitespace-nowrap">Suhail Husain</h1>
                       <p className="font-moderniz text-[9px] dark:text-[#00ffdc] text-slate-600" style={{ textShadow: 'none' }}>
-                        Full-Stack Developer | 7+ Years Experience
+                        Full-Stack Developer having 7+ Years Experience
                       </p>
                     </div>
                   </a>
