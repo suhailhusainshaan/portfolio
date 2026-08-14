@@ -180,7 +180,7 @@ const Header = () => {
                     <div className="block">
                       <h1 className="font-moderniz text-base dark:text-[#00ffdc] text-slate-800">Suhail Husain</h1>
                       <p className="font-moderniz text-[10px] dark:text-[#00ffdc] text-slate-600" style={{ textShadow: 'none' }}>
-                        Full-Stack Developer | 7+ Years Experience
+                          7+ Years Experience | Full-Stack Developer
                       </p>
                     </div>
                   </a>

@@ -20,12 +20,12 @@ import { useNavbar } from '../contexts/NavbarContext';
 // ===================================
 const dummyProjects = [
   {
-    title: "Enterprise ERP System",
-    description: "Full-featured ERP system built with Laravel and Filament, featuring inventory management, HR modules, financial reporting, and role-based access control. Deployed on Linux servers with PostgreSQL.",
-    tech: ["Laravel", "Filament", "PostgreSQL", "Linux", "jQuery", "AJAX"],
-    link: "https://github.com/suhailhusainshaan",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop",
-    category: "Web/Apps",
+    title: "Curitics Risk Adjustment",
+    description: "Gen-5 healthcare risk adjustment module for end-to-end RAF/HCC workflows, from AI-driven suspect detection and multi-layer coding to audit and submission.Multi-tenant with row-level security, low-code workflow configuration, provider scorecards, and STAR/HEDIS alignment. Deployed serverlessly on AWS via Laravel Vapor.",
+    tech: ["Laravel", "Filament", "Livewire", "PostgreSQL", "AWS", "Laravel Vapor", "Amazon SES/SNS", "Tailwind CSS"],
+    link: "https://ra.curiticspulse.com",
+    image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=2070&auto=format&fit=crop",
+    category: "Web/Apps"
   },
   {
     title: "E-Commerce Platform (Spring Boot)",
